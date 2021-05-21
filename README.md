@@ -19,7 +19,7 @@ let myProfile : [String : Any] = [
         "mobile" : [
             "code" : ["Swift", "Objective-C"],
             "interface" : ["Storyboard", "ViewCode", "SwiftUI"],
-            "third-party-libraries" : ["RxSwift", "RealmDB", "Firebase", "Charts"]
+            "thirdPartyLibraries" : ["RxSwift", "RealmDB", "Firebase", "Charts"]
         ],
         "backend" : [
             "code" : ["Kotlin", "Java"],
