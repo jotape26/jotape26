@@ -3,7 +3,6 @@
 <p><em>Mobile Engineer at <a href="https://www.itau.com.br">Itaú Unibanco</a>
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/JP_eg?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
 [![Linkedin: joaopleite26](https://img.shields.io/badge/-João%20Pedro%20Leite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoleite26/)](https://www.linkedin.com/in/joaoleite26/)
 ![GitHub followers](https://img.shields.io/github/followers/jotape26?label=Follow&style=social)
 
