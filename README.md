@@ -1,6 +1,6 @@
 <h2>Hello There! I'm João Pedro Leite</h2>
 <img align='right' src="https://media.giphy.com/media/IeRdg7gLkfK1ly2mFU/giphy.gif" width="230">
-<p><em>Mobile Engineer at <a href="https://www.itau.com.br">Itaú Unibanco</a>
+<p><em>Mobile Engineer at <a href="https://arctouch.com">ArcTouch</a>
 </em></p>
 
 [![Linkedin: joaopleite26](https://img.shields.io/badge/-João%20Pedro%20Leite-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoleite26/)](https://www.linkedin.com/in/joaoleite26/)
