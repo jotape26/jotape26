@@ -12,7 +12,7 @@ A little more about me...
 ```swift
 
 let myProfile : [String : Any] = [
-    "age" : 25,
+    "age" : 26,
     "pronouns" : ["He", "Him"],
     "currentFocus" : "iOS/iPadOS Mobile Development",
     "technologies" : [
